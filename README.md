@@ -1,4 +1,4 @@
-# Image Steganography with Python
+# SECURE DATA HIDING IN IMAGES USING STEGANOGRAPHY
 
 This project demonstrates a simple method for hiding and retrieving secret messages within images using steganography techniques. The code is written in Python and utilizes the OpenCV library for image processing.
 
